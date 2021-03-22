@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @SindyPin
+- 👀 I’m interested in Bioinformatics
+- 🌱 I’m currently learning Python and R for Bioinformatics
+- 💞️ I’m looking to collaborate on Bioinformatics Cancer Centers
+- 📫 How to reach me via https://www.linkedin.com/in/sindy-licette-pi%C3%B1ero-33291118a/
